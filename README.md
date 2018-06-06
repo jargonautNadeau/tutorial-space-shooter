@@ -1,5 +1,9 @@
 # tutorial-space-shooter
 
+GitHubPages Site
+https://jargonautnadeau.github.io/tutorial-space-shooter/
+
+
 ##Welcome
 
 This project is based on Unity Technologies tutorial series https://unity3d.com/learn/tutorials/s/space-shooter-tutorial
